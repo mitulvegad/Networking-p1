@@ -4,8 +4,6 @@ Welcome to the **Networking** deep-dive module. This section is designed to tran
 
 ![Networking Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Networking%20Deep%20Dive&fontSize=50)
 
----
-
 <h2>Osi Model</h2>
 
 The **Open Systems Interconnection (OSI)** model is a conceptual framework that standardizes the functions of a telecommunication or computing system into seven distinct layers.
