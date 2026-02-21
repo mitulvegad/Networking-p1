@@ -2,7 +2,7 @@
 
 Welcome to the **Networking** deep-dive module. This section is designed to transform your understanding of how data travels across the globe, from physical electrical signals to complex logical routing and application delivery.
 
-(https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Networking%20Deep%20Dive&fontSize=50)
+(https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Networking%20Deep%20
 
 <h2>Osi Model</h2>
 
